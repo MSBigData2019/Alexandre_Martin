@@ -1,4 +1,5 @@
 # lesson 2 exercice
+# lesson 2 test
 
 from bs4 import BeautifulSoup
 import numpy as np
